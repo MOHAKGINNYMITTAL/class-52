@@ -1,0 +1,43 @@
+h1 {
+    color: brown;
+    padding-left:140px;
+}
+
+*{
+    border: solid;
+}
+.mohak{
+    background-color:rgb(189, 215, 240);
+    display:block;
+    justify-content:space-between;
+}
+.mohak2{
+    background-color:rgb(209, 105, 228);
+ flex-wrap:wrap;
+ justify-content:space-evenly;   
+}
+.mohak3{
+    background-color:rgb(105, 245, 170);
+    
+}
+h1,h2,p{
+    text-align: center;
+}
+a:link{
+    color:"yellow";
+}
+a:visited{
+    color:"red";
+}
+.item:hover p{
+opacity: 1;
+}
+.item:hover img{
+    opacity: 0.33;
+    }
+    .kk{
+        margin-left:40px;
+    }
+    .kk a{
+        margin:30px;
+    }
